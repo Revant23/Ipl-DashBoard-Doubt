@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.TeamMatches {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+  height: 100vh;
+  padding: 60px;
+}
+
+.TeamBanner {
+  width: 80vw;
+  height: 40vh;
+}
+
+.Latesh-head {
+  color: aliceblue;
+  margin-top: 20px;
+}
+
+.Latesh-Match-Details {
+  background-color: #0f172a;
+  color: #ffffff33;
+}

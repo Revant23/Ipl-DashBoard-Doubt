@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.Team-card {
+  list-style-type: none;
+}
+
+img {
+  height: 80px;
+  width: 60px;
+}
+
+.items-container {
+  background-color: #ffffff33;
+  margin-bottom: 30px;
+  padding: 50px;
+  width: 500px;
+  display: flex;
+}
+
+.team-heading {
+  font-size: 25px;
+  color: aliceblue;
+  margin-left: 25px;
+  margin-top: 25px;
+  text-decoration: none;
+}
+
+button {
+  background-color: none;
+  border-width: 0px;
+}
