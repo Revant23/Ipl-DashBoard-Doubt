@@ -1,7 +1,7 @@
 /* Write your CSS here */
 .TeamMatches {
   background-image: linear-gradient(to bottom, #a4261d, #1e293b);
-  height: 100vh;
+  height: 100%;
   padding: 60px;
 }
 
@@ -10,12 +10,26 @@
   height: 40vh;
 }
 
-.Latesh-head {
+.latesh-head {
   color: aliceblue;
   margin-top: 20px;
 }
 
-.Latesh-Match-Details {
+.latesh-Match-Details {
   background-color: #0f172a;
   color: #ffffff33;
+}
+
+.upper-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+}
+
+.hr-line {
+  color: #ffffff;
 }
